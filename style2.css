@@ -209,14 +209,14 @@ main{
 
 }
 @keyframes india{
-    0%{background-image: url(/tourpic/india/julian-yu-_WuPjE-MPHo-unsplash.jpg);background-size: 100% 100%;}
-    10%{background-image: url(/tourpic/india/julian-yu-_WuPjE-MPHo-unsplash.jpg);background-size: 100% 100%;}
-    25%{background-image: url(/tourpic/india/kirti-kalla-JRhvllDBhzs-unsplash.jpg);background-size: 100% 100%;}
-    35%{background-image: url(/tourpic/india/kirti-kalla-JRhvllDBhzs-unsplash.jpg);background-size: 100% 100%;}
-    50%{background-image: url(/tourpic/india/kyran-low-MvkLKGtBcUA-unsplash.jpg);background-size: 100% 100%;}
-    60%{background-image: url(/tourpic/india/kyran-low-MvkLKGtBcUA-unsplash.jpg);background-size: 100% 100%;}
-    90%{background-image: url(/tourpic/india/lenstravelier-KNOyIlIK2XE-unsplash.jpg);background-size: 100% 100%;}
-    100%{background-image: url(/tourpic/india/lenstravelier-KNOyIlIK2XE-unsplash.jpg);background-size: 100% 100%;}
+    0%{background-image: url(PICTURE/india/julian-yu-_WuPjE-MPHo-unsplash.jpg);background-size: 100% 100%;}
+    10%{background-image: url(PICTURE/india/kirti-kalla-JRhvllDBhzs-unsplash.jpg);background-size: 100% 100%;}
+    25%{background-image: url(PICTURE/india/kyran-low-MvkLKGtBcUA-unsplash.jpg);background-size: 100% 100%;}
+    35%{background-image: url(PICTURE/india/lenstravelier-KNOyIlIK2XE-unsplash.jpg);background-size: 100% 100%;}
+    50%{background-image: url(PICTURE/india/julian-yu-_WuPjE-MPHo-unsplash.jpg);background-size: 100% 100%;}
+    60%{background-image: url(PICTURE/india/kirti-kalla-JRhvllDBhzs-unsplash.jpg);background-size: 100% 100%;}
+    90%{background-image: url(PICTURE/india/kyran-low-MvkLKGtBcUA-unsplash.jpg);background-size: 100% 100%;}
+    100%{background-image: url(PICTURE/india/lenstravelier-KNOyIlIK2XE-unsplash.jpg));background-size: 100% 100%;}
 }
 @keyframes thai{
     0%{background-image: url(/tourpic/thailand/alejandro-cartagena-qeibBI7w4fQ-unsplash.jpg);background-size: 100% 100%;}
