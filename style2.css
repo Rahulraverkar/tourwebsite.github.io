@@ -11,7 +11,7 @@ header{
     display: flex;
     justify-content:center;
     align-items:flex-start;
-    background-image: url(/tourpic/harold-eggar-oIVpygLFUJg-unsplash.jpg);
+    background-image: url(PICTURE/harold-eggar-oIVpygLFUJg-unsplash.jpg);
     background-size: 100% 100%;
     border-bottom: 2.5px solid rgb(0, 0, 0);
     border-bottom-left-radius:15px;
