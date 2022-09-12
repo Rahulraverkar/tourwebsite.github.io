@@ -197,6 +197,17 @@ main{
 
 
 @keyframes paris{
+    0%{background-image: url(https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);background-size: 100% 100%;}
+    10%{background-image: url(https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);background-size: 100% 100%;}
+    25%{background-image: url(https://images.unsplash.com/photo-1509439581779-6298f75bf6e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);background-size: 100% 100%;}
+    35%{background-image: url(https://images.unsplash.com/photo-1509439581779-6298f75bf6e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);background-size: 100% 100%;}
+    50%{background-image: url(https://images.unsplash.com/photo-1551634979-2b11f8c946fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);background-size: 100% 100%;}
+    60%{background-image: url(https://images.unsplash.com/photo-1551634979-2b11f8c946fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);background-size: 100% 100%;}
+    90%{background-image: url(https://images.unsplash.com/photo-1581262177533-1b1760b87952?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=362&q=80);background-size: 100% 100%;}
+    100%{background-image: url(https://images.unsplash.com/photo-1581262177533-1b1760b87952?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=362&q=80);background-size: 100% 100%;}
+
+}
+@keyframes india{
     0%{background-image: url(https://images.unsplash.com/photo-1524492412937-b28074a5d7da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80);background-size: 100% 100%;}
     10%{background-image: url(https://images.unsplash.com/photo-1524492412937-b28074a5d7da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80);background-size: 100% 100%;}
     25%{background-image: url(https://images.unsplash.com/photo-1514222134-b57cbb8ce073?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80);background-size: 100% 100%;}
@@ -206,27 +217,16 @@ main{
     90%{background-image: url(https://images.unsplash.com/photo-1588673133509-13d815c64b5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80);background-size: 100% 100%;}
     100%{background-image: url(https://images.unsplash.com/photo-1588673133509-13d815c64b5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80);background-size: 100% 100%;}
     
-
-}
-@keyframes india{
-    0%{background-image: url(PICTURE/india/julian-yu-_WuPjE-MPHo-unsplash.jpg);background-size: 100% 100%;}
-    10%{background-image: url(PICTURE/india/kirti-kalla-JRhvllDBhzs-unsplash.jpg);background-size: 100% 100%;}
-    25%{background-image: url(PICTURE/india/kyran-low-MvkLKGtBcUA-unsplash.jpg);background-size: 100% 100%;}
-    35%{background-image: url(PICTURE/india/lenstravelier-KNOyIlIK2XE-unsplash.jpg);background-size: 100% 100%;}
-    50%{background-image: url(PICTURE/india/julian-yu-_WuPjE-MPHo-unsplash.jpg);background-size: 100% 100%;}
-    60%{background-image: url(PICTURE/india/kirti-kalla-JRhvllDBhzs-unsplash.jpg);background-size: 100% 100%;}
-    90%{background-image: url(PICTURE/india/kyran-low-MvkLKGtBcUA-unsplash.jpg);background-size: 100% 100%;}
-    100%{background-image: url(PICTURE/india/lenstravelier-KNOyIlIK2XE-unsplash.jpg));background-size: 100% 100%;}
 }
 @keyframes thai{
-    0%{background-image: url(/tourpic/thailand/alejandro-cartagena-qeibBI7w4fQ-unsplash.jpg);background-size: 100% 100%;}
-    10%{background-image: url(/tourpic/thailand/alejandro-cartagena-qeibBI7w4fQ-unsplash.jpg);background-size: 100% 100%;}
-    25%{background-image: url(/tourpic/thailand/denys-nevozhai-guNIjIuUcgY-unsplash.jpg);background-size: 100% 100%;}
-    35%{background-image: url(/tourpic/thailand/denys-nevozhai-guNIjIuUcgY-unsplash.jpg);background-size: 100% 100%;}
-    50%{background-image: url(/tourpic/thailand/marcin-kalinski-PCgM2CYm6HA-unsplash.jpg);background-size: 100% 100%;}
-    60%{background-image: url(/tourpic/thailand/marcin-kalinski-PCgM2CYm6HA-unsplash.jpg);background-size: 100% 100%;}
-    90%{background-image: url(/tourpic/thailand/mathew-schwartz-gsllxmVO4HQ-unsplash.jpg);background-size: 100% 100%;}
-    100%{background-image: url(/tourpic/thailand/mathew-schwartz-gsllxmVO4HQ-unsplash.jpg);background-size: 100% 100%;}
+    0%{background-image: url(https://images.unsplash.com/photo-1528181304800-259b08848526?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);background-size: 100% 100%;}
+    10%{background-image: url(https://images.unsplash.com/photo-1528181304800-259b08848526?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);background-size: 100% 100%;}
+    25%{background-image: url(https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=839&q=80);background-size: 100% 100%;}
+    35%{background-image: url(https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=839&q=80);background-size: 100% 100%;}
+    50%{background-image: url(https://images.unsplash.com/photo-1562602833-0f4ab2fc46e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80);background-size: 100% 100%;}
+    60%{background-image: url(https://images.unsplash.com/photo-1562602833-0f4ab2fc46e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80);background-size: 100% 100%;}
+    90%{background-image: url(https://images.unsplash.com/photo-1490077476659-095159692ab5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=851&q=80);background-size: 100% 100%;}
+    100%{background-image: url(https://images.unsplash.com/photo-1490077476659-095159692ab5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=851&q=80);background-size: 100% 100%;}
 }
 
 footer{
