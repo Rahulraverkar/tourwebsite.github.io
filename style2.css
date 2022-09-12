@@ -197,14 +197,14 @@ main{
 
 
 @keyframes paris{
-    0%{background-image: url(/tourpic/paris/anthony-delanoix-Q0-fOL2nqZc-unsplash.jpg);background-size: 100% 100%;}
-    10%{background-image: url(/tourpic/paris/anthony-delanoix-Q0-fOL2nqZc-unsplash.jpg);background-size: 100% 100%;}
-    25%{background-image: url(/tourpic/paris/bastien-nvs-SprV1eqNrqM-unsplash.jpg);background-size: 100% 100%;}
-    35%{background-image: url(/tourpic/paris/bastien-nvs-SprV1eqNrqM-unsplash.jpg);background-size: 100% 100%;}
-    50%{background-image: url(/tourpic/paris/michael-fousert-Ql9PCaOhyyE-unsplash.jpg);background-size: 100% 100%;}
-    60%{background-image: url(/tourpic/paris/michael-fousert-Ql9PCaOhyyE-unsplash.jpg);background-size: 100% 100%;}
-    90%{background-image: url(/tourpic/paris/thibault-penin-zj_zOAaT8as-unsplash.jpg);background-size: 100% 100%;}
-    100%{background-image: url(/tourpic/paris/thibault-penin-zj_zOAaT8as-unsplash.jpg);background-size: 100% 100%;}
+    0%{background-image: url(https://images.unsplash.com/photo-1524492412937-b28074a5d7da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80);background-size: 100% 100%;}
+    10%{background-image: url(https://images.unsplash.com/photo-1524492412937-b28074a5d7da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80);background-size: 100% 100%;}
+    25%{background-image: url(https://images.unsplash.com/photo-1514222134-b57cbb8ce073?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80);background-size: 100% 100%;}
+    35%{background-image: url(https://images.unsplash.com/photo-1514222134-b57cbb8ce073?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80);background-size: 100% 100%;}
+    50%{background-image: url(https://images.unsplash.com/photo-1547707188-cdbffa0bc270?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=374&q=80);background-size: 100% 100%;}
+    60%{background-image: url(https://images.unsplash.com/photo-1547707188-cdbffa0bc270?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=374&q=80);background-size: 100% 100%;}
+    90%{background-image: url(https://images.unsplash.com/photo-1588673133509-13d815c64b5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80);background-size: 100% 100%;}
+    100%{background-image: url(https://images.unsplash.com/photo-1588673133509-13d815c64b5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80);background-size: 100% 100%;}
     
 
 }
